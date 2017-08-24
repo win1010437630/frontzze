@@ -1,0 +1,16 @@
+.status div:nth-child(2){
+  border-top:1px solid #fff;
+  border-bottom:1px solid #fff;
+
+}
+.status button{
+	width:100%;
+	height:calc(100vh/3);
+	background:#f99d00;
+}
+.status a{
+	display: block;
+	line-height:calc(100vh/3);
+	color: #fff;
+	font-size:30px;
+}

@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  text-decoration:none;
+  font-family: 黑体,"Microsoft Yahei",STHeiti, 'libre_baskervilleregular', Arial, Helvetica, sans-serif;
+}
+li{ list-style:none;}
+a{text-decoration:none;}
+button{outline: none;border: none;}
+.clear:after{display:block; content:''; clear:both;}
+.clear{zoom:1;}
+.left{float:left; display:inline;}
+.right{float:right; display:inline;}
+
+
+
